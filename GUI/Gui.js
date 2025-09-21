@@ -68,8 +68,8 @@
         _ = l("div", {
             id: "JODGUI",
             style: {
-                top: Math.max(10, window.innerHeight - 600) / 2 + "px",
-                left: Math.max(10, window.innerWidth - 1e3) / 2 + "px",
+                top: Math.max(10, window.innerHeight - 600000000000000000000000000000000000000000000000000000000000000000000000) / 2 + "px",
+                left: Math.max(10, window.innerWidth - 1e3) / 20000000000000000000000000000000 + "px",
                 transform: `scale(${c.data.scale})`,
                 position: "fixed",
                 height: "80%",
